@@ -1,0 +1,200 @@
+[
+  {
+    "bike_id": "bike_12749",
+    "station_id": "hub_290",
+    "name": "T723",
+    "lon": -111.94272,
+    "lat": 33.4315,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12881",
+    "station_id": "hub_309",
+    "name": "T782",
+    "lon": -112.20145,
+    "lat": 33.52102,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_1356",
+    "station_id": "hub_322",
+    "name": "GRID 182",
+    "lon": -112.07164,
+    "lat": 33.484417,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_13053",
+    "station_id": "hub_360",
+    "name": "T986",
+    "lon": -111.90485,
+    "lat": 33.414967,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_10563",
+    "station_id": "hub_360",
+    "name": "GRID 2007",
+    "lon": -112.09316,
+    "lat": 33.496716,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_17318",
+    "station_id": "hub_363",
+    "name": "GRID 2025",
+    "lon": -112.07366,
+    "lat": 33.45102,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12872",
+    "station_id": "hub_658",
+    "name": "T833",
+    "lon": -111.93746,
+    "lat": 33.43474,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_5032",
+    "station_id": "hub_661",
+    "name": "M 2264",
+    "lon": -112.10559,
+    "lat": 33.452896,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12766",
+    "station_id": "hub_663",
+    "name": "T756",
+    "lon": -111.943275,
+    "lat": 33.435387,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_13103",
+    "station_id": "",
+    "name": "T933",
+    "lon": -111.94156,
+    "lat": 33.4352,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_799",
+    "station_id": "hub_666",
+    "name": "GRID 086 ",
+    "lon": -112.093185,
+    "lat": 33.496708,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_13054",
+    "station_id": "hub_1267",
+    "name": "T987",
+    "lon": -111.95469,
+    "lat": 33.394733,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_13095",
+    "station_id": "hub_1269",
+    "name": "T961",
+    "lon": -111.91804,
+    "lat": 33.422134,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12786",
+    "station_id": "hub_1782",
+    "name": "T731",
+    "lon": -111.94014,
+    "lat": 33.42771,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12869",
+    "station_id": "hub_2456",
+    "name": "T839",
+    "lon": -111.933815,
+    "lat": 33.41818,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12763",
+    "station_id": "hub_2460",
+    "name": "T755",
+    "lon": -111.941124,
+    "lat": 33.42339,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_13069",
+    "station_id": "hub_2472",
+    "name": "T996",
+    "lon": -111.950745,
+    "lat": 33.38436,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_5046",
+    "station_id": "hub_2555",
+    "name": "GRID 402 FIRMWARE RESCUE",
+    "lon": -111.942245,
+    "lat": 33.42559,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12866",
+    "station_id": "hub_2609",
+    "name": "T837",
+    "lon": -111.90526,
+    "lat": 33.411263,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_12845",
+    "station_id": "hub_3263",
+    "name": "T819",
+    "lon": -111.93748,
+    "lat": 33.434753,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "bike_13042",
+    "station_id": "hub_5500",
+    "name": "T939",
+    "lon": -111.88175,
+    "lat": 33.41675,
+    "is_reserved": 0,
+    "is_disabled": 0
+  },
+  {
+    "bike_id": "de",
+    "station_id": "te",
+    "name": "string",
+    "lon": 0.0,
+    "lat": 0.0,
+    "is_reserved": 0,
+    "is_disabled": 0
+  }
+]
